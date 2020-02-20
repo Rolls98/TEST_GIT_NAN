@@ -57,3 +57,37 @@ ul li a {
     font-size: 18px;
     margin-bottom: 20px;
 }
+
+/* FORM */
+
+#form{
+    width: 900px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+#form div{
+    margin: 15px 0;
+}
+
+form{
+    font-size: 26px;
+}
+
+#form .user-name{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+textarea{
+    height: 250px;
+    width: 100%;
+}
+
+
+#form input{
+    height: 30px;
+    width: 100%;
+   font-size: 16px; 
+   padding: 5px;
+}
